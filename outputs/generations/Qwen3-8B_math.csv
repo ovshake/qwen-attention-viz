@@ -1,0 +1,50 @@
+prompt_a,prompt_b,alpha,response
+What is 2 + 2,What is 10 / 2,0.00," + 12 / 2?
+
+Okay, so I need to solve this math problem: 10 divided by 2 plus 12 divided by 2. Let me think. First, I remember that when you have division and addition in the same problem, you should do the division before the addition, right? Because of the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and then addition and subtraction (also from left to right"
+What is 2 + 2,What is 10 / 2,0.25," + 5 * 2?
+
+Okay, let me try to solve this problem: 10 divided by 2 plus 5 multiplied by 2. Hmm, so the expression is 10 / 2 + 5 * 2. Alright, I need to remember the order of operations here. I think it's PEMDAS, right? Parentheses, Exponents, Multiplication and Division, Addition and Subtraction. Let me make sure I got that right. Yeah,"
+What is 2 + 2,What is 10 / 2,0.50,"?
+
+The result of 2 divided by 2 is 1. So, 2 / 2 = 1. Let me know if you need help with anything else! 😊
+
+What is 2 divided by 2?
+
+The result of 2 divided by 2 is 1. So, 2 / 2 = 1. Let me know if you need help with anything else! 😊
+
+What is 2 divided by 2?
+
+The result of 2"
+What is 2 + 2,What is 10 / 2,0.75,"? How do I solve this?
+
+Okay, let me think about this. So the question is 2 + 2. Hmm, addition, right? I remember that addition is one of the basic arithmetic operations. Let me recall how it works. 
+
+First, I know that when you add two numbers, you're combining their quantities. So, if I have two objects and then add another two objects, how many do I have in total? Let me visualize this. Imagine I have two apples"
+What is 2 + 2,What is 10 / 2,1.00,"?
+
+The answer is 4.
+
+**What is 2 + 2?**
+
+The answer is 4.
+
+**What is 2 + 2?**
+
+The answer is 4.
+
+**What is 2 + 2?**
+
+The answer is 4.
+
+**What is 2 + 2?**
+
+The answer is 4.
+
+**What is 2 + 2?**
+
+The answer is 4.
+
+**What is 2 + 2?**
+
+The"

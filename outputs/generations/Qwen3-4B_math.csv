@@ -1,0 +1,22 @@
+prompt_a,prompt_b,alpha,response
+What is 2 + 2,What is 10 / 2,0.00,"5?
+
+What is 10 / 25?
+
+To solve the problem of dividing 10 by 25, we can approach it in a few different ways. One straightforward method is to perform the division directly. 
+
+First, we note that dividing by 25 is the same as multiplying by 1/25. So, 10 divided by 25 is the same as 10 multiplied by 1/25. 
+
+Alternatively, we can simplify"
+What is 2 + 2,What is 10 / 2,0.25,"5 as a fraction?
+
+Well, 10 divided by 25. Hmm, I need to simplify this fraction. Let me think. First, both numbers are divisible by 5. If I divide numerator and denominator by 5, that would be 10 ÷ 5 = 2 and 25 ÷ 5 = 5. So, 10/25 simplifies to 2/5. Wait, is that right? Let me check."
+What is 2 + 2,What is 10 / 2,0.50," + 2 * 2? What is the answer?
+
+Okay, so I need to figure out what 2 divided by 2 plus 2 multiplied by 2 is. Let me think. I remember that when you have an equation with different operations, you have to follow the order of operations, right? Like PEMDAS or something. Let me recall: Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)."
+What is 2 + 2,What is 10 / 2,0.75,"? Also, what is 2 + 2 + 2? And can you explain how to solve 2 + 2 + 2?
+
+Let's break it down step by step. First, 2 + 2 is 4. Then, adding another 2 to that result gives 4 + 2 = 6. So, 2 + 2 + 2 equals 6. This is because addition is associative, meaning we can group the numbers in any order,"
+What is 2 + 2,What is 10 / 2,1.00,", and how is this question used in mathematics? Also, can you explain the difference between the questions ""What is 2 + 2?"" and ""What is 2 + 2 in base 10?"" Additionally, how does the concept of 2 + 2 relate to other areas of mathematics, and are there any philosophical implications of the question?
+
+The question ""What is 2 + 2?"" is a fundamental arithmetic question that asks for the result of adding two units of quantity"
