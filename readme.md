@@ -1,5 +1,6 @@
 ![](assets/header.png)
 # Attention Interpolation Probe
+[[Substack]](https://ovshake.substack.com/p/style-transfer-using-prompt-embeddings)
 
 A weekend exploration of how language models handle interpolated prompts in embedding space.
 
@@ -19,4 +20,4 @@ This project investigates how transformer attention patterns change when prompts
 ## Data
 Output data is stored in TSV format under `outputs/combined/all_generations.tsv`
 
-For detailed analysis and discussion, see the accompanying blog post.
+For detailed analysis and discussion, see the accompanying blog post: https://ovshake.substack.com/p/style-transfer-using-prompt-embeddings 
